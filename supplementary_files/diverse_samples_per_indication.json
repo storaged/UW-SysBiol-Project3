@@ -1,0 +1,237 @@
+{
+  "BREAS": [
+    {
+      "rank": 1,
+      "image": "IMMUcan_2022_WFLOW_10072131-SPECT-VAR-TIS-01-IMC-01_001.tiff",
+      "n_cells": 563,
+      "tumor_prop": 0.0142,
+      "shannon_entropy": 2.0645,
+      "composite_score": 2.0352,
+      "top_celltypes": {
+        "CD8": 0.2771,
+        "Mural": 0.1616,
+        "CD4": 0.1368,
+        "B": 0.1172,
+        "HLADR": 0.1083
+      }
+    },
+    {
+      "rank": 2,
+      "image": "IMMUcan_Batch20210701_10075014-SPECT-VAR-TIS-01-IMC-01_002.tiff",
+      "n_cells": 1358,
+      "tumor_prop": 0.148,
+      "shannon_entropy": 2.2572,
+      "composite_score": 1.9231,
+      "top_celltypes": {
+        "CD8": 0.2047,
+        "Mural": 0.162,
+        "Tumor": 0.148,
+        "DC": 0.134,
+        "CD4": 0.1016
+      }
+    },
+    {
+      "rank": 3,
+      "image": "IMMUcan_Batch20210506_10063153-SPECT-VAR-TIS-01-IMC-01_002.tiff",
+      "n_cells": 1775,
+      "tumor_prop": 0.1054,
+      "shannon_entropy": 2.1345,
+      "composite_score": 1.9096,
+      "top_celltypes": {
+        "BnT": 0.2124,
+        "CD8": 0.2068,
+        "CD4": 0.1837,
+        "Tumor": 0.1054,
+        "MacCD163": 0.0693
+      }
+    }
+  ],
+  "GI": [
+    {
+      "rank": 1,
+      "image": "IMMUcan_WFLOW_Batch20210304_10043241-GI-VAR-TIS-UNST-03_007.tiff",
+      "n_cells": 1540,
+      "tumor_prop": 0.0208,
+      "shannon_entropy": 2.2272,
+      "composite_score": 2.181,
+      "top_celltypes": {
+        "MacCD163": 0.2136,
+        "Mural": 0.1812,
+        "CD4": 0.1396,
+        "CD8": 0.1273,
+        "plasma": 0.089
+      }
+    },
+    {
+      "rank": 2,
+      "image": "IMMUcan_2022_WFLOW_10074350-SPECT-VAR-TIS-UNST-03_004.tiff",
+      "n_cells": 1641,
+      "tumor_prop": 0.0018,
+      "shannon_entropy": 2.0312,
+      "composite_score": 2.0275,
+      "top_celltypes": {
+        "Mural": 0.2791,
+        "CD8": 0.1578,
+        "B": 0.1481,
+        "CD4": 0.1243,
+        "BnT": 0.0945
+      }
+    },
+    {
+      "rank": 3,
+      "image": "IMMUcan_Batch20211215_10068187-SPECT-VAR-TIS-UNST-03_004.tiff",
+      "n_cells": 2672,
+      "tumor_prop": 0.0101,
+      "shannon_entropy": 1.6504,
+      "composite_score": 1.6337,
+      "top_celltypes": {
+        "B": 0.2814,
+        "CD8": 0.2676,
+        "CD4": 0.2376,
+        "BnT": 0.1228,
+        "Treg": 0.0371
+      }
+    }
+  ],
+  "GU": [
+    {
+      "rank": 1,
+      "image": "IMMUcan_Batch20200528_10037093-GU-VAR-TIS-01-IMC-01_004.tiff",
+      "n_cells": 2340,
+      "tumor_prop": 0.0201,
+      "shannon_entropy": 2.0433,
+      "composite_score": 2.0023,
+      "top_celltypes": {
+        "BnT": 0.2769,
+        "B": 0.2239,
+        "CD8": 0.144,
+        "CD4": 0.0919,
+        "pDC": 0.0872
+      }
+    },
+    {
+      "rank": 2,
+      "image": "IMMUcan_Batch20201113_10042702-GU-VAR-TIS-01-IMC-01_003.tiff",
+      "n_cells": 1628,
+      "tumor_prop": 0.0135,
+      "shannon_entropy": 1.8174,
+      "composite_score": 1.7928,
+      "top_celltypes": {
+        "MacCD163": 0.269,
+        "CD4": 0.231,
+        "CD8": 0.1916,
+        "Mural": 0.1806,
+        "Treg": 0.0338
+      }
+    },
+    {
+      "rank": 3,
+      "image": "IMMUcan_Batch20210506_10068594-SPECT-VAR-TIS-01-IMC-01_003.tiff",
+      "n_cells": 340,
+      "tumor_prop": 0.0,
+      "shannon_entropy": 1.4914,
+      "composite_score": 1.4914,
+      "top_celltypes": {
+        "Neutrophil": 0.4471,
+        "MacCD163": 0.2882,
+        "CD8": 0.0853,
+        "HLADR": 0.0735,
+        "DC": 0.0529
+      }
+    }
+  ],
+  "HN": [
+    {
+      "rank": 1,
+      "image": "IMMUcan_Batch20210701_10071584-SPECT-VAR-TIS-UNST-03_003.tiff",
+      "n_cells": 728,
+      "tumor_prop": 0.0453,
+      "shannon_entropy": 1.4727,
+      "composite_score": 1.406,
+      "top_celltypes": {
+        "Mural": 0.4986,
+        "MacCD163": 0.2115,
+        "plasma": 0.1277,
+        "CD4": 0.0701,
+        "Tumor": 0.0453
+      }
+    },
+    {
+      "rank": 2,
+      "image": "IMMUcan_Batch20220908_10089829-SPECT-VAR-TIS-UNST-03_001.tiff",
+      "n_cells": 631,
+      "tumor_prop": 0.0,
+      "shannon_entropy": 1.4046,
+      "composite_score": 1.4046,
+      "top_celltypes": {
+        "Mural": 0.6117,
+        "DC": 0.103,
+        "HLADR": 0.0887,
+        "MacCD163": 0.0887,
+        "Neutrophil": 0.0254
+      }
+    },
+    {
+      "rank": 3,
+      "image": "IMMUcan_Batch20210701_10069534-SPECT-VAR-TIS-UNST-03_001.tiff",
+      "n_cells": 1164,
+      "tumor_prop": 0.2826,
+      "shannon_entropy": 1.8439,
+      "composite_score": 1.3227,
+      "top_celltypes": {
+        "Tumor": 0.2826,
+        "Mural": 0.2371,
+        "MacCD163": 0.134,
+        "Treg": 0.1289,
+        "plasma": 0.1237
+      }
+    }
+  ],
+  "THOR": [
+    {
+      "rank": 1,
+      "image": "IMMUcan_Batch20220309_10088313-SPECT-VAR-TIS-01-IMC-01_004.tiff",
+      "n_cells": 1722,
+      "tumor_prop": 0.0,
+      "shannon_entropy": 1.861,
+      "composite_score": 1.861,
+      "top_celltypes": {
+        "plasma": 0.3815,
+        "B": 0.1812,
+        "BnT": 0.1214,
+        "MacCD163": 0.0819,
+        "Mural": 0.0784
+      }
+    },
+    {
+      "rank": 2,
+      "image": "IMMUcan_Batch20210701_LUNG_10041507-LUNG-VAR-TIS-01-IMC-01_003.tiff",
+      "n_cells": 1229,
+      "tumor_prop": 0.1107,
+      "shannon_entropy": 2.0146,
+      "composite_score": 1.7917,
+      "top_celltypes": {
+        "Mural": 0.3474,
+        "CD4": 0.1196,
+        "Tumor": 0.1107,
+        "CD8": 0.1058,
+        "HLADR": 0.096
+      }
+    },
+    {
+      "rank": 3,
+      "image": "IMMUcan_Batch20210701_LUNG_10041504-LUNG-VAR-TIS-01-IMC-01_003.tiff",
+      "n_cells": 2129,
+      "tumor_prop": 0.2137,
+      "shannon_entropy": 2.0838,
+      "composite_score": 1.6384,
+      "top_celltypes": {
+        "Neutrophil": 0.2682,
+        "Tumor": 0.2137,
+        "plasma": 0.1301,
+        "CD8": 0.0897,
+        "MacCD163": 0.0883
+      }
+    }
+  ]
+}
